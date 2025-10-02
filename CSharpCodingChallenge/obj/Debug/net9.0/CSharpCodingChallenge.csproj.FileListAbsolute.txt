@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\bin\Debug\net9.0\CSharpCodingChallenge.exe
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\bin\Debug\net9.0\CSharpCodingChallenge.deps.json
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\bin\Debug\net9.0\CSharpCodingChallenge.runtimeconfig.json
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\bin\Debug\net9.0\CSharpCodingChallenge.dll
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\bin\Debug\net9.0\CSharpCodingChallenge.pdb
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.sourcelink.json
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.dll
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\refint\CSharpCodingChallenge.dll
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.pdb
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\CSharpCodingChallenge.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\master2\CSharpCodingChallenge\obj\Debug\net9.0\ref\CSharpCodingChallenge.dll
