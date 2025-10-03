@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\001\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
       "projectName": "CSharpCodingChallenge",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\001\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\001\\CSharpCodingChallenge\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
