@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\master2\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj": {}
+    "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\master2\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj": {
+    "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\master2\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
+        "projectUniqueName": "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
         "projectName": "CSharpCodingChallenge",
-        "projectPath": "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\master2\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
+        "projectPath": "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\CSharpCodingChallenge.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\master2\\CSharpCodingChallenge\\obj\\",
+        "outputPath": "c:\\Users\\ADMIN\\Desktop\\WC\\CSharpCodingChallenge\\0001_3\\CSharpCodingChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
