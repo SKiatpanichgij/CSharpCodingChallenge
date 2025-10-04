@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCodingChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5fccb264d77839ae05316ab4462123d4e09a4b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7da43c929f113405ad84a989f1dafb3ba4101de0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpCodingChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpCodingChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
