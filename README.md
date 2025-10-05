@@ -9,7 +9,7 @@ A collection of C# coding challenges and solutions, including algorithmic proble
   - ' ' (space) finalizes the current character and resets the count.
 - TestProject will log the test result in TRX file => can be opened by TRX viewer 
 
-## Tech Stacj 
+## Tech Stack 
 ### CharpCodingChallenge 
 - C#  
 - .NET SDK 
@@ -18,13 +18,13 @@ A collection of C# coding challenges and solutions, including algorithmic proble
 - xUnit
 
 ### Project Structure
-├── CSharpCodingChallenge/  # 
-│   ├── bin/                # 
-│   ├── obj/                # 
+├── CSharpCodingChallenge/  # Main project 
+│   ├── bin/                # bin
+│   ├── obj/                # obj
 │   └── soure/              # Maincode for OldPhonePad
-├── TestProject/            # React frontend 
-│   ├── bin/                # 
-│   ├── obj/                #  
+├── TestProject/            # Test Project 
+│   ├── bin/                # bin 
+│   ├── obj/                # obj  
 │   └── TestResults/        # Loggeg file of testing
 ├── .vscode/                # VS Code configuration
 ├── LICENSE                 # MIT LICENSE
