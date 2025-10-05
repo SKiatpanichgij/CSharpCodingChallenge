@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="b7de61e5-72ee-4db7-9b54-116ac06fe3a6" name="ADMIN@DESKTOP-62KTP00 2025-10-05 14:12:31" runUser="DESKTOP-62KTP00\ADMIN" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-10-05T14:12:31.9686521+07:00" queuing="2025-10-05T14:12:31.9686525+07:00" start="2025-10-05T14:12:30.9357863+07:00" finish="2025-10-05T14:12:31.9913000+07:00" />
+  <TestSettings name="default" id="94e20d00-ef43-4901-9497-a8a1916a1f7f">
+    <Deployment runDeploymentRoot="ADMIN_DESKTOP-62KTP00_2025-10-05_14_12_31" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="5ec4e119-a1a7-4ccc-a54d-34194a00aca6" testId="7be5da2d-0c9f-d9c2-714c-8e06309752a4" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;3#&quot;, expected: &quot;D&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000121" startTime="2025-10-05T14:12:31.9534245+07:00" endTime="2025-10-05T14:12:31.9534245+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ec4e119-a1a7-4ccc-a54d-34194a00aca6" />
+    <UnitTestResult executionId="857f2608-e288-431d-8431-7e1ea7ac058c" testId="1f95e675-000b-fdf1-a103-3ea7afe96cbf" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;66#&quot;, expected: &quot;N&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000039" startTime="2025-10-05T14:12:31.9521962+07:00" endTime="2025-10-05T14:12:31.9521962+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="857f2608-e288-431d-8431-7e1ea7ac058c" />
+    <UnitTestResult executionId="d88b9452-c8e6-470e-bdae-99560a4ed3c6" testId="07c4b878-62ab-0056-03b0-e0723950ed3d" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;4#&quot;, expected: &quot;G&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000041" startTime="2025-10-05T14:12:31.9533622+07:00" endTime="2025-10-05T14:12:31.9533623+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d88b9452-c8e6-470e-bdae-99560a4ed3c6" />
+    <UnitTestResult executionId="11497832-45ec-4a94-a2cd-3407e638d5e0" testId="f2720fcd-5113-8e17-52ac-d6bb33670f68" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;333#&quot;, expected: &quot;F&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000117" startTime="2025-10-05T14:12:31.9521500+07:00" endTime="2025-10-05T14:12:31.9521500+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="11497832-45ec-4a94-a2cd-3407e638d5e0" />
+    <UnitTestResult executionId="4fb176f4-4f56-483e-a82c-5171ac3d085d" testId="045b3fc3-0691-b4c2-1a27-456d670a56e8" testName="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;227*#&quot;, expected: &quot;B&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000857" startTime="2025-10-05T14:12:31.9540602+07:00" endTime="2025-10-05T14:12:31.9540602+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4fb176f4-4f56-483e-a82c-5171ac3d085d" />
+    <UnitTestResult executionId="1783bd41-4085-45e2-aa3b-e4734fdf0085" testId="e71214a5-e2de-b669-8840-4f9b1414e2f3" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;55#&quot;, expected: &quot;K&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000118" startTime="2025-10-05T14:12:31.9321868+07:00" endTime="2025-10-05T14:12:31.9321868+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1783bd41-4085-45e2-aa3b-e4734fdf0085" />
+    <UnitTestResult executionId="05726151-5504-4fa6-b620-6c7a96423ebb" testId="ca3526d9-3a39-d0dd-9e8e-3676a00d0ff1" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;44#&quot;, expected: &quot;H&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0002350" startTime="2025-10-05T14:12:31.9319085+07:00" endTime="2025-10-05T14:12:31.9319085+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05726151-5504-4fa6-b620-6c7a96423ebb" />
+    <UnitTestResult executionId="5ca157c6-14d4-4eb6-a11e-b290843f5f65" testId="4e7f6360-5bfe-ebc8-c315-7043b42b38a2" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;6#&quot;, expected: &quot;M&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000077" startTime="2025-10-05T14:12:31.9534490+07:00" endTime="2025-10-05T14:12:31.9534491+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ca157c6-14d4-4eb6-a11e-b290843f5f65" />
+    <UnitTestResult executionId="269d3a61-cfda-40c6-9557-8330e062d162" testId="32a796fe-d31c-0622-f801-f1f524b753cd" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;999#&quot;, expected: &quot;Y&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000037" startTime="2025-10-05T14:12:31.9521722+07:00" endTime="2025-10-05T14:12:31.9521722+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="269d3a61-cfda-40c6-9557-8330e062d162" />
+    <UnitTestResult executionId="323eae66-56bf-4f8e-ac24-e62cca39f8b8" testId="9b11a741-3c6d-0abd-5fe6-431c5863dc28" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;666#&quot;, expected: &quot;O&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000040" startTime="2025-10-05T14:12:31.9518812+07:00" endTime="2025-10-05T14:12:31.9518812+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="323eae66-56bf-4f8e-ac24-e62cca39f8b8" />
+    <UnitTestResult executionId="a137fc44-517e-4d8c-b404-25b4485ef0af" testId="cc64c1bb-cbda-df73-cf91-cf68f0484d37" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;8#&quot;, expected: &quot;T&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000047" startTime="2025-10-05T14:12:31.9533839+07:00" endTime="2025-10-05T14:12:31.9533839+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a137fc44-517e-4d8c-b404-25b4485ef0af" />
+    <UnitTestResult executionId="9651a747-6616-4134-a775-1a1028e5463c" testId="9917a324-9f5a-5110-e39d-546a9073340b" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;888#&quot;, expected: &quot;V&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000218" startTime="2025-10-05T14:12:31.9521009+07:00" endTime="2025-10-05T14:12:31.9521010+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9651a747-6616-4134-a775-1a1028e5463c" />
+    <UnitTestResult executionId="8cb0a3c3-f3e5-4b7e-91ae-2b69620f11c0" testId="43c0c694-6fce-9b27-d2d2-f7504b1f66f8" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;444#&quot;, expected: &quot;I&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000051" startTime="2025-10-05T14:12:31.9322649+07:00" endTime="2025-10-05T14:12:31.9322655+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8cb0a3c3-f3e5-4b7e-91ae-2b69620f11c0" />
+    <UnitTestResult executionId="6ce14fa2-1d37-41fa-bdf2-71fda7cf1354" testId="6194d615-6b76-9ef9-b2e3-6916aba63ac6" testName="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;33#&quot;, expected: &quot;E&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0016631" startTime="2025-10-05T14:12:31.9535335+07:00" endTime="2025-10-05T14:12:31.9535336+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ce14fa2-1d37-41fa-bdf2-71fda7cf1354" />
+    <UnitTestResult executionId="0edadf29-32d2-432a-ac97-9b81a7d49691" testId="c13aed5a-0c19-b49e-72fe-a4a3b22b6d53" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;33#&quot;, expected: &quot;E&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000080" startTime="2025-10-05T14:12:31.9322872+07:00" endTime="2025-10-05T14:12:31.9322872+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0edadf29-32d2-432a-ac97-9b81a7d49691" />
+    <UnitTestResult executionId="d82b49a4-3fcc-4feb-8e6d-8b285b0a1b0f" testId="9a3fad19-3b55-2944-f66c-5479fed93e45" testName="TestProject.UnitTest.TestOldPhonePad_NoValidInput" computerName="DESKTOP-62KTP00" duration="00:00:00.0001992" startTime="2025-10-05T14:12:31.9541830+07:00" endTime="2025-10-05T14:12:31.9541830+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d82b49a4-3fcc-4feb-8e6d-8b285b0a1b0f" />
+    <UnitTestResult executionId="9600a9ee-3e6e-447a-b5ca-ebd8905b34a5" testId="f7c50df7-9a3f-2e7f-e2cd-171e7b9a3655" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;99#&quot;, expected: &quot;X&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0003220" startTime="2025-10-05T14:12:31.9533035+07:00" endTime="2025-10-05T14:12:31.9533036+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9600a9ee-3e6e-447a-b5ca-ebd8905b34a5" />
+    <UnitTestResult executionId="98991eaa-f78a-4fb1-9ada-c5f5a10a272f" testId="aea82601-763f-bf02-0b30-a08db553a0ae" testName="TestProject.UnitTest.TestOldPhonePad_WrapAround(input: &quot;77777#&quot;, expected: &quot;P&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0001993" startTime="2025-10-05T14:12:31.9541167+07:00" endTime="2025-10-05T14:12:31.9541167+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="98991eaa-f78a-4fb1-9ada-c5f5a10a272f" />
+    <UnitTestResult executionId="9d089ea6-dfaa-4167-8e67-3173bdc7b35d" testId="0953e903-32ce-f4b2-4220-15dc5f076ca2" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;9999#&quot;, expected: &quot;Z&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000041" startTime="2025-10-05T14:12:31.9534061+07:00" endTime="2025-10-05T14:12:31.9534061+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d089ea6-dfaa-4167-8e67-3173bdc7b35d" />
+    <UnitTestResult executionId="7a98c09f-2039-4150-9b24-ddb78260d9a9" testId="4192a435-0a18-a4e3-7a7d-fc67a1e422a9" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;22#&quot;, expected: &quot;B&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000102" startTime="2025-10-05T14:12:31.9520819+07:00" endTime="2025-10-05T14:12:31.9520819+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7a98c09f-2039-4150-9b24-ddb78260d9a9" />
+    <UnitTestResult executionId="85ab8cca-9ce4-4a7d-8114-e42e02edda10" testId="ac0b4e5d-f022-3eef-d087-6a83eae9ce14" testName="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;8 88777444666*664#&quot;, expected: &quot;TURING&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0002351" startTime="2025-10-05T14:12:31.9540080+07:00" endTime="2025-10-05T14:12:31.9540081+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="85ab8cca-9ce4-4a7d-8114-e42e02edda10" />
+    <UnitTestResult executionId="d940404d-fea6-4d53-8675-27d35c9597c0" testId="e0969810-441e-b245-459c-390e7b9ae9da" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;77#&quot;, expected: &quot;Q&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000173" startTime="2025-10-05T14:12:31.9322415+07:00" endTime="2025-10-05T14:12:31.9322415+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d940404d-fea6-4d53-8675-27d35c9597c0" />
+    <UnitTestResult executionId="37a8a2ec-eaca-4431-bba4-ffd824f8d041" testId="706e3245-3bb0-88ba-4f6f-44def29e6d7f" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;88#&quot;, expected: &quot;U&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000032" startTime="2025-10-05T14:12:31.9321618+07:00" endTime="2025-10-05T14:12:31.9321618+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="37a8a2ec-eaca-4431-bba4-ffd824f8d041" />
+    <UnitTestResult executionId="b293acf4-c592-4fe9-8bbf-acf92bcf8a93" testId="e5817465-da2d-4c76-f56e-1c8d47ec8275" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;9#&quot;, expected: &quot;W&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0003424" startTime="2025-10-05T14:12:31.9520604+07:00" endTime="2025-10-05T14:12:31.9520604+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b293acf4-c592-4fe9-8bbf-acf92bcf8a93" />
+    <UnitTestResult executionId="6886aaf1-00a9-4a56-86e1-34b457d7e85d" testId="41ae50c6-99dd-5fe6-2fd5-c70022855912" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;555#&quot;, expected: &quot;L&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000482" startTime="2025-10-05T14:12:31.9322231+07:00" endTime="2025-10-05T14:12:31.9322231+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6886aaf1-00a9-4a56-86e1-34b457d7e85d" />
+    <UnitTestResult executionId="efcd9767-e83b-4bc0-a390-54f23bbb3b5d" testId="c919eebc-1f3d-b7f5-faa3-43f56c9adad1" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;5#&quot;, expected: &quot;J&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000153" startTime="2025-10-05T14:12:31.9533382+07:00" endTime="2025-10-05T14:12:31.9533382+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="efcd9767-e83b-4bc0-a390-54f23bbb3b5d" />
+    <UnitTestResult executionId="d0272472-fe05-433f-a145-6e3556c6f0f9" testId="55cf2aa1-0016-48cf-c9e4-498cfe0d0f57" testName="TestProject.UnitTest.TestOldPhonePad_WrapAround(input: &quot;2222#&quot;, expected: &quot;A&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0002429" startTime="2025-10-05T14:12:31.9541369+07:00" endTime="2025-10-05T14:12:31.9541369+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0272472-fe05-433f-a145-6e3556c6f0f9" />
+    <UnitTestResult executionId="67876603-6611-4281-8b1f-d6604522dd4c" testId="377700f3-a810-e18a-12c3-fc5d515c6c44" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;7#&quot;, expected: &quot;P&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0001061" startTime="2025-10-05T14:12:31.9521250+07:00" endTime="2025-10-05T14:12:31.9521250+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67876603-6611-4281-8b1f-d6604522dd4c" />
+    <UnitTestResult executionId="454f23b6-0f8e-414a-8d35-ed60966515dc" testId="e960db01-5d8a-34ad-894d-df7acad1dfca" testName="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;4433555 555666#&quot;, expected: &quot;HELLO&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000166" startTime="2025-10-05T14:12:31.9540382+07:00" endTime="2025-10-05T14:12:31.9540382+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="454f23b6-0f8e-414a-8d35-ed60966515dc" />
+    <UnitTestResult executionId="feaee27b-399a-486d-88ba-8cf742da8581" testId="91a31681-7635-be07-d518-df6a1f04d302" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;222#&quot;, expected: &quot;C&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.1975219" startTime="2025-10-05T14:12:31.9299307+07:00" endTime="2025-10-05T14:12:31.9299400+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feaee27b-399a-486d-88ba-8cf742da8581" />
+    <UnitTestResult executionId="7b6ea4ef-b733-49ba-82f3-0cd7fadc53bf" testId="77294688-ac12-5242-1b9b-fe8111414d02" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;2#&quot;, expected: &quot;A&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000031" startTime="2025-10-05T14:12:31.9534713+07:00" endTime="2025-10-05T14:12:31.9534714+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7b6ea4ef-b733-49ba-82f3-0cd7fadc53bf" />
+    <UnitTestResult executionId="8f03c25b-d557-411a-a179-0389f16c8753" testId="84ab3750-f788-439d-82c8-49fe4ad85b16" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;7777#&quot;, expected: &quot;S&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000068" startTime="2025-10-05T14:12:31.9520296+07:00" endTime="2025-10-05T14:12:31.9520297+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f03c25b-d557-411a-a179-0389f16c8753" />
+    <UnitTestResult executionId="b08fdf0f-dd40-4174-bf73-fee244d6184e" testId="d7adb69f-7ff7-92ce-9eb6-8b9352a7811c" testName="TestProject.UnitTest.TestOldPhonePad_EmptyInput" computerName="DESKTOP-62KTP00" duration="00:00:00.0001045" startTime="2025-10-05T14:12:31.9541597+07:00" endTime="2025-10-05T14:12:31.9541597+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b08fdf0f-dd40-4174-bf73-fee244d6184e" />
+    <UnitTestResult executionId="8df7f69b-cf3e-427a-be93-ce44268e31e1" testId="231cfb0b-ae54-df65-41da-68c9cb734c80" testName="TestProject.UnitTest.TestOldPhonePad_OnlySpaces" computerName="DESKTOP-62KTP00" duration="00:00:00.0001224" startTime="2025-10-05T14:12:31.9540921+07:00" endTime="2025-10-05T14:12:31.9540921+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8df7f69b-cf3e-427a-be93-ce44268e31e1" />
+    <UnitTestResult executionId="669ae9a3-70ba-494a-9d0c-02347f0f05ce" testId="6e64b2c8-2916-42d7-b7a5-9d0298020fa4" testName="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;777#&quot;, expected: &quot;R&quot;)" computerName="DESKTOP-62KTP00" duration="00:00:00.0000124" startTime="2025-10-05T14:12:31.9321265+07:00" endTime="2025-10-05T14:12:31.9321265+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="669ae9a3-70ba-494a-9d0c-02347f0f05ce" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;8#&quot;, expected: &quot;T&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="cc64c1bb-cbda-df73-cf91-cf68f0484d37">
+      <Execution id="a137fc44-517e-4d8c-b404-25b4485ef0af" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;888#&quot;, expected: &quot;V&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="9917a324-9f5a-5110-e39d-546a9073340b">
+      <Execution id="9651a747-6616-4134-a775-1a1028e5463c" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;6#&quot;, expected: &quot;M&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="4e7f6360-5bfe-ebc8-c315-7043b42b38a2">
+      <Execution id="5ca157c6-14d4-4eb6-a11e-b290843f5f65" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;33#&quot;, expected: &quot;E&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="c13aed5a-0c19-b49e-72fe-a4a3b22b6d53">
+      <Execution id="0edadf29-32d2-432a-ac97-9b81a7d49691" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;222#&quot;, expected: &quot;C&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="91a31681-7635-be07-d518-df6a1f04d302">
+      <Execution id="feaee27b-399a-486d-88ba-8cf742da8581" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;8 88777444666*664#&quot;, expected: &quot;TURING&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="ac0b4e5d-f022-3eef-d087-6a83eae9ce14">
+      <Execution id="85ab8cca-9ce4-4a7d-8114-e42e02edda10" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_FromDocument" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;9999#&quot;, expected: &quot;Z&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="0953e903-32ce-f4b2-4220-15dc5f076ca2">
+      <Execution id="9d089ea6-dfaa-4167-8e67-3173bdc7b35d" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;4433555 555666#&quot;, expected: &quot;HELLO&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="e960db01-5d8a-34ad-894d-df7acad1dfca">
+      <Execution id="454f23b6-0f8e-414a-8d35-ed60966515dc" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_FromDocument" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;3#&quot;, expected: &quot;D&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="7be5da2d-0c9f-d9c2-714c-8e06309752a4">
+      <Execution id="5ec4e119-a1a7-4ccc-a54d-34194a00aca6" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;2#&quot;, expected: &quot;A&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="77294688-ac12-5242-1b9b-fe8111414d02">
+      <Execution id="7b6ea4ef-b733-49ba-82f3-0cd7fadc53bf" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;666#&quot;, expected: &quot;O&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="9b11a741-3c6d-0abd-5fe6-431c5863dc28">
+      <Execution id="323eae66-56bf-4f8e-ac24-e62cca39f8b8" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_OnlySpaces" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="231cfb0b-ae54-df65-41da-68c9cb734c80">
+      <Execution id="8df7f69b-cf3e-427a-be93-ce44268e31e1" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_OnlySpaces" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;5#&quot;, expected: &quot;J&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="c919eebc-1f3d-b7f5-faa3-43f56c9adad1">
+      <Execution id="efcd9767-e83b-4bc0-a390-54f23bbb3b5d" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_NoValidInput" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="9a3fad19-3b55-2944-f66c-5479fed93e45">
+      <Execution id="d82b49a4-3fcc-4feb-8e6d-8b285b0a1b0f" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_NoValidInput" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;55#&quot;, expected: &quot;K&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="e71214a5-e2de-b669-8840-4f9b1414e2f3">
+      <Execution id="1783bd41-4085-45e2-aa3b-e4734fdf0085" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;4#&quot;, expected: &quot;G&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="07c4b878-62ab-0056-03b0-e0723950ed3d">
+      <Execution id="d88b9452-c8e6-470e-bdae-99560a4ed3c6" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;44#&quot;, expected: &quot;H&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="ca3526d9-3a39-d0dd-9e8e-3676a00d0ff1">
+      <Execution id="05726151-5504-4fa6-b620-6c7a96423ebb" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_WrapAround(input: &quot;77777#&quot;, expected: &quot;P&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="aea82601-763f-bf02-0b30-a08db553a0ae">
+      <Execution id="98991eaa-f78a-4fb1-9ada-c5f5a10a272f" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_WrapAround" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_WrapAround(input: &quot;2222#&quot;, expected: &quot;A&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="55cf2aa1-0016-48cf-c9e4-498cfe0d0f57">
+      <Execution id="d0272472-fe05-433f-a145-6e3556c6f0f9" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_WrapAround" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;33#&quot;, expected: &quot;E&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="6194d615-6b76-9ef9-b2e3-6916aba63ac6">
+      <Execution id="6ce14fa2-1d37-41fa-bdf2-71fda7cf1354" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_FromDocument" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_EmptyInput" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="d7adb69f-7ff7-92ce-9eb6-8b9352a7811c">
+      <Execution id="b08fdf0f-dd40-4174-bf73-fee244d6184e" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_EmptyInput" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;7777#&quot;, expected: &quot;S&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="84ab3750-f788-439d-82c8-49fe4ad85b16">
+      <Execution id="8f03c25b-d557-411a-a179-0389f16c8753" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;99#&quot;, expected: &quot;X&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="f7c50df7-9a3f-2e7f-e2cd-171e7b9a3655">
+      <Execution id="9600a9ee-3e6e-447a-b5ca-ebd8905b34a5" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;66#&quot;, expected: &quot;N&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="1f95e675-000b-fdf1-a103-3ea7afe96cbf">
+      <Execution id="857f2608-e288-431d-8431-7e1ea7ac058c" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;88#&quot;, expected: &quot;U&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="706e3245-3bb0-88ba-4f6f-44def29e6d7f">
+      <Execution id="37a8a2ec-eaca-4431-bba4-ffd824f8d041" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;999#&quot;, expected: &quot;Y&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="32a796fe-d31c-0622-f801-f1f524b753cd">
+      <Execution id="269d3a61-cfda-40c6-9557-8330e062d162" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;7#&quot;, expected: &quot;P&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="377700f3-a810-e18a-12c3-fc5d515c6c44">
+      <Execution id="67876603-6611-4281-8b1f-d6604522dd4c" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;444#&quot;, expected: &quot;I&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="43c0c694-6fce-9b27-d2d2-f7504b1f66f8">
+      <Execution id="8cb0a3c3-f3e5-4b7e-91ae-2b69620f11c0" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;555#&quot;, expected: &quot;L&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="41ae50c6-99dd-5fe6-2fd5-c70022855912">
+      <Execution id="6886aaf1-00a9-4a56-86e1-34b457d7e85d" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;333#&quot;, expected: &quot;F&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="f2720fcd-5113-8e17-52ac-d6bb33670f68">
+      <Execution id="11497832-45ec-4a94-a2cd-3407e638d5e0" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;777#&quot;, expected: &quot;R&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="6e64b2c8-2916-42d7-b7a5-9d0298020fa4">
+      <Execution id="669ae9a3-70ba-494a-9d0c-02347f0f05ce" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;22#&quot;, expected: &quot;B&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="4192a435-0a18-a4e3-7a7d-fc67a1e422a9">
+      <Execution id="7a98c09f-2039-4150-9b24-ddb78260d9a9" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_FromDocument(input: &quot;227*#&quot;, expected: &quot;B&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="045b3fc3-0691-b4c2-1a27-456d670a56e8">
+      <Execution id="4fb176f4-4f56-483e-a82c-5171ac3d085d" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_FromDocument" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;77#&quot;, expected: &quot;Q&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="e0969810-441e-b245-459c-390e7b9ae9da">
+      <Execution id="d940404d-fea6-4d53-8675-27d35c9597c0" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+    <UnitTest name="TestProject.UnitTest.TestOldPhonePad_SingleCharacter(input: &quot;9#&quot;, expected: &quot;W&quot;)" storage="c:\users\admin\desktop\wc\csharpcodingchallenge\0002\testproject\bin\debug\net9.0\testproject.dll" id="e5817465-da2d-4c76-f56e-1c8d47ec8275">
+      <Execution id="b293acf4-c592-4fe9-8bbf-acf92bcf8a93" />
+      <TestMethod codeBase="C:\Users\ADMIN\Desktop\WC\CSharpCodingChallenge\0002\TestProject\bin\Debug\net9.0\TestProject.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="TestProject.UnitTest" name="TestOldPhonePad_SingleCharacter" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="7be5da2d-0c9f-d9c2-714c-8e06309752a4" executionId="5ec4e119-a1a7-4ccc-a54d-34194a00aca6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1f95e675-000b-fdf1-a103-3ea7afe96cbf" executionId="857f2608-e288-431d-8431-7e1ea7ac058c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07c4b878-62ab-0056-03b0-e0723950ed3d" executionId="d88b9452-c8e6-470e-bdae-99560a4ed3c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2720fcd-5113-8e17-52ac-d6bb33670f68" executionId="11497832-45ec-4a94-a2cd-3407e638d5e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="045b3fc3-0691-b4c2-1a27-456d670a56e8" executionId="4fb176f4-4f56-483e-a82c-5171ac3d085d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e71214a5-e2de-b669-8840-4f9b1414e2f3" executionId="1783bd41-4085-45e2-aa3b-e4734fdf0085" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ca3526d9-3a39-d0dd-9e8e-3676a00d0ff1" executionId="05726151-5504-4fa6-b620-6c7a96423ebb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4e7f6360-5bfe-ebc8-c315-7043b42b38a2" executionId="5ca157c6-14d4-4eb6-a11e-b290843f5f65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32a796fe-d31c-0622-f801-f1f524b753cd" executionId="269d3a61-cfda-40c6-9557-8330e062d162" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b11a741-3c6d-0abd-5fe6-431c5863dc28" executionId="323eae66-56bf-4f8e-ac24-e62cca39f8b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cc64c1bb-cbda-df73-cf91-cf68f0484d37" executionId="a137fc44-517e-4d8c-b404-25b4485ef0af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9917a324-9f5a-5110-e39d-546a9073340b" executionId="9651a747-6616-4134-a775-1a1028e5463c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="43c0c694-6fce-9b27-d2d2-f7504b1f66f8" executionId="8cb0a3c3-f3e5-4b7e-91ae-2b69620f11c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6194d615-6b76-9ef9-b2e3-6916aba63ac6" executionId="6ce14fa2-1d37-41fa-bdf2-71fda7cf1354" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c13aed5a-0c19-b49e-72fe-a4a3b22b6d53" executionId="0edadf29-32d2-432a-ac97-9b81a7d49691" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9a3fad19-3b55-2944-f66c-5479fed93e45" executionId="d82b49a4-3fcc-4feb-8e6d-8b285b0a1b0f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f7c50df7-9a3f-2e7f-e2cd-171e7b9a3655" executionId="9600a9ee-3e6e-447a-b5ca-ebd8905b34a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aea82601-763f-bf02-0b30-a08db553a0ae" executionId="98991eaa-f78a-4fb1-9ada-c5f5a10a272f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0953e903-32ce-f4b2-4220-15dc5f076ca2" executionId="9d089ea6-dfaa-4167-8e67-3173bdc7b35d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4192a435-0a18-a4e3-7a7d-fc67a1e422a9" executionId="7a98c09f-2039-4150-9b24-ddb78260d9a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ac0b4e5d-f022-3eef-d087-6a83eae9ce14" executionId="85ab8cca-9ce4-4a7d-8114-e42e02edda10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0969810-441e-b245-459c-390e7b9ae9da" executionId="d940404d-fea6-4d53-8675-27d35c9597c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="706e3245-3bb0-88ba-4f6f-44def29e6d7f" executionId="37a8a2ec-eaca-4431-bba4-ffd824f8d041" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e5817465-da2d-4c76-f56e-1c8d47ec8275" executionId="b293acf4-c592-4fe9-8bbf-acf92bcf8a93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41ae50c6-99dd-5fe6-2fd5-c70022855912" executionId="6886aaf1-00a9-4a56-86e1-34b457d7e85d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c919eebc-1f3d-b7f5-faa3-43f56c9adad1" executionId="efcd9767-e83b-4bc0-a390-54f23bbb3b5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="55cf2aa1-0016-48cf-c9e4-498cfe0d0f57" executionId="d0272472-fe05-433f-a145-6e3556c6f0f9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="377700f3-a810-e18a-12c3-fc5d515c6c44" executionId="67876603-6611-4281-8b1f-d6604522dd4c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e960db01-5d8a-34ad-894d-df7acad1dfca" executionId="454f23b6-0f8e-414a-8d35-ed60966515dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="91a31681-7635-be07-d518-df6a1f04d302" executionId="feaee27b-399a-486d-88ba-8cf742da8581" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77294688-ac12-5242-1b9b-fe8111414d02" executionId="7b6ea4ef-b733-49ba-82f3-0cd7fadc53bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84ab3750-f788-439d-82c8-49fe4ad85b16" executionId="8f03c25b-d557-411a-a179-0389f16c8753" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7adb69f-7ff7-92ce-9eb6-8b9352a7811c" executionId="b08fdf0f-dd40-4174-bf73-fee244d6184e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="231cfb0b-ae54-df65-41da-68c9cb734c80" executionId="8df7f69b-cf3e-427a-be93-ce44268e31e1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6e64b2c8-2916-42d7-b7a5-9d0298020fa4" executionId="669ae9a3-70ba-494a-9d0c-02347f0f05ce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="35" executed="35" passed="35" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.8.2+699d445a1a (64-bit .NET 9.0.9)&#xD;
+[xUnit.net 00:00:00.34]   Discovering: TestProject&#xD;
+[xUnit.net 00:00:00.38]   Discovered:  TestProject&#xD;
+[xUnit.net 00:00:00.38]   Starting:    TestProject&#xD;
+Input: 222# =&gt; Output: C&#xD;
+Input: 44# =&gt; Output: H&#xD;
+Input: 777# =&gt; Output: R&#xD;
+Input: 88# =&gt; Output: U&#xD;
+Input: 55# =&gt; Output: K&#xD;
+Input: 555# =&gt; Output: L&#xD;
+Input: 77# =&gt; Output: Q&#xD;
+Input: 444# =&gt; Output: I&#xD;
+Input: 33# =&gt; Output: E&#xD;
+Input: 666# =&gt; Output: O&#xD;
+Input: 7777# =&gt; Output: S&#xD;
+Input: 9# =&gt; Output: W&#xD;
+Input: 22# =&gt; Output: B&#xD;
+Input: 888# =&gt; Output: V&#xD;
+Input: 7# =&gt; Output: P&#xD;
+Input: 333# =&gt; Output: F&#xD;
+Input: 999# =&gt; Output: Y&#xD;
+Input: 66# =&gt; Output: N&#xD;
+Input: 99# =&gt; Output: X&#xD;
+Input: 5# =&gt; Output: J&#xD;
+Input: 4# =&gt; Output: G&#xD;
+Input: 8# =&gt; Output: T&#xD;
+Input: 9999# =&gt; Output: Z&#xD;
+Input: 3# =&gt; Output: D&#xD;
+Input: 6# =&gt; Output: M&#xD;
+Input: 2# =&gt; Output: A&#xD;
+Input: 33# =&gt; Output: E&#xD;
+Input: 8 88777444666*664# =&gt; Output: TURING&#xD;
+Input: 4433555 555666# =&gt; Output: HELLO&#xD;
+Input: 227*# =&gt; Output: B&#xD;
+Input:       =&gt; Output: &#xD;
+Input: 77777# =&gt; Output: P&#xD;
+Input: 2222# =&gt; Output: A&#xD;
+Input:  =&gt; Output: &#xD;
+Input: ### =&gt; Output: &#xD;
+Input: *** =&gt; Output: &#xD;
+Input:     =&gt; Output: &#xD;
+[xUnit.net 00:00:00.64]   Finished:    TestProject&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
