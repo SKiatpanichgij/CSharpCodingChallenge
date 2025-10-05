@@ -9,7 +9,7 @@ A collection of C# coding challenges and solutions, including algorithmic proble
   - ' ' (space) finalizes the current character and resets the count.
 - TestProject will log the test result in TRX file => can be opened by TRX viewer 
 
-## Tech Stack 
+## Tech Stack
 ### CharpCodingChallenge 
 - C#  
 - .NET SDK 
