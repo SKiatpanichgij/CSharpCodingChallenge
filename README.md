@@ -18,17 +18,17 @@ A collection of C# coding challenges and solutions, including algorithmic proble
 - xUnit
 
 ### Project Structure
-├── CSharpCodingChallenge/  # Main project 
+├── CSharpCodingChallenge  # Main project 
 │   ├── bin/                # bin
 │   ├── obj/                # obj
-│   └── soure/              # Maincode for OldPhonePad
-├── TestProject/            # Test Project 
+│   └── soure/            # Maincode for OldPhonePad
+├── TestProject/        # Test Project 
 │   ├── bin/                # bin 
 │   ├── obj/                # obj  
-│   └── TestResults/        # Loggeg file of testing
-├── .vscode/                # VS Code configuration
-├── LICENSE                 # MIT LICENSE
-└── README.md               # README.md 
+│   └── TestResults/    # Loggeg file of testing
+├── .vscode/              # VS Code configuration
+├── LICENSE              # MIT LICENSE
+└── README.md       # README.md 
 
 **Note**: The code have to prject 1) CharpCodingChallenge 2) TestProject  
 
