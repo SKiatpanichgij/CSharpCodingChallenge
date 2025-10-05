@@ -18,6 +18,8 @@ A collection of C# coding challenges and solutions, including algorithmic proble
 - xUnit
 
 ### Project Structure
+
+```
 ├── CSharpCodingChallenge  # Main project 
 │   ├── bin/                # bin
 │   ├── obj/                # obj
@@ -29,6 +31,7 @@ A collection of C# coding challenges and solutions, including algorithmic proble
 ├── .vscode/              # VS Code configuration
 ├── LICENSE              # MIT LICENSE
 └── README.md       # README.md 
+```
 
 **Note**: The code have to prject 1) CharpCodingChallenge 2) TestProject  
 
